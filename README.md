@@ -9,7 +9,7 @@ Reported Cross-validated F1, precision, and recall scores for each classifier. K
 ![image](https://user-images.githubusercontent.com/40575189/135679772-ca05e792-65ff-4c42-884e-c0e226fa901c.png)   
 ![image](https://user-images.githubusercontent.com/40575189/135679797-440344ae-9630-4fbc-ba1d-319dc7ee89c8.png)   
 ![image](https://user-images.githubusercontent.com/40575189/135679824-e5caecaa-b078-46d0-a57c-47421bcf65f4.png)
-
+![image](https://user-images.githubusercontent.com/40575189/135680048-9ea2fa5d-c32f-412b-b474-b0d34f87cb6c.png)
 
 
 
